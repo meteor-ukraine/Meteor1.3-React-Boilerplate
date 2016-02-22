@@ -1,6 +1,7 @@
 ### Boilerplate for Meteor 1.3 React Web app
 
-Uses [Mantra specification] directory layout
+Uses [Mantra specification] directory layout.
+
 Contains test environment for React components
 
 
